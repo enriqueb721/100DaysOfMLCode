@@ -8,3 +8,9 @@ tmp/nanoc/
 
 # Crash Log
 crash.log
+
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+.gitignore
