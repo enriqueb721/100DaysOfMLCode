@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-.gitignore
 .DS_Store
+*/.DS_Store/*
+.gitignore
